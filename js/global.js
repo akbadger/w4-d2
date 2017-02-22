@@ -24,3 +24,8 @@ var paterson = new Trailer('Paterson', 'm8pGJBgiiDU')
 var onlyLoversLeftAlive = new Trailer('Only Lovers Left Alive', '-TbxI_oRSKI')
 
 var ourIdiotBrother = new Trailer('Our Idiot Brother', '1yvn8a16B9Q')
+
+$(document).ready(function() {
+    $("button").sparkle();
+});
+
